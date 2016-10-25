@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Vinay is working on AngularJs"
 date:   2016-07-15 13:25:24 +0530
 categories: jekyll update
 ---
